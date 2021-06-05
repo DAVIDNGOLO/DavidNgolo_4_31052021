@@ -317,7 +317,7 @@ a:hover {
 
 .navbar .nav {
     padding-top: 2px;
-    margin-right: -16px;
+    margin-right: 6rem;
     float: right;
     z-index: 1;
 }
@@ -355,7 +355,7 @@ a:hover {
     float: left;
 }
 .ajoutperformance {
-    font-size: 20px;
+    font-size: 15px;
     color: grey;
 }
 
@@ -849,6 +849,9 @@ h4 {
     }
     .nav-center.navbar .nav {
         max-width: 100%
+       
+        
+
     }
 }
 
@@ -877,11 +880,6 @@ h4 {
         position: relative;
     }
     
-    .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
-    
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -891,8 +889,13 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+       
+    }
+    #bloc-3-what-i-do{
+        display: none;
+    }
+    #bloc-5-cta{
+        display: none;
     }
     
 }
