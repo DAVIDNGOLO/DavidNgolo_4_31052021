@@ -234,7 +234,9 @@ a:hover {
 .l-bloc p a {
     color: rgba(0, 0, 0, .6);
 }
-
+.orange{
+    display: none;
+}
 .d-bloc .panel .a-btn:hover,
 .l-bloc .a-btn:hover,
 .l-bloc .navbar a:hover,
