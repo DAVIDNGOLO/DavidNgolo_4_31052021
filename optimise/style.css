@@ -785,7 +785,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
+    font-weight: bolder;
 }
 
 .btn-atomic-tangerine {
