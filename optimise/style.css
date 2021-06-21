@@ -99,9 +99,7 @@ a:hover {
 .b-parallax {
     background-attachment: fixed;
 }
-.orange {
-    color: #f0a27e;
-}
+
 .d-bloc {
     color: rgba(255, 255, 255, .7);
 }
@@ -754,7 +752,9 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
 }
-
+.row8{
+    background-color: #f0ad4eb3;
+}
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
@@ -791,7 +791,7 @@ h4 {
     font-weight: bolder;
 }
 h5{
-    font-size: 2rem;
+    font-size: 2.2rem;
    
 }
 
